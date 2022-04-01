@@ -1,4 +1,4 @@
-### Good evening!
+### Good day!
 
 I'm a senior software engineer at [Psiphon Inc.](https://psiphon.ca/). We help people bypass state censorship to access the whole Internet.
 
